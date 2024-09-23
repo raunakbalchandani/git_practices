@@ -2,7 +2,7 @@
 
 1. [Features](#Features)
 2. [Pre-Requisites](#Pre-Requisites)
-3. [Installation and Running the code](#Installation-&-Running-the-code)
+3. [Installation and Running the code](#Installation-and-Running-the-code)
 4. [Usage Example](#Usage-Example)
 5. [YAML Configuration](#Sample-YAML-Configuration)
 6. [Explaination of Availability Calculation](#Explanation-of-Availability-Calculation)
@@ -20,7 +20,7 @@
 
 1. Python 3.7+: This project is written in Python and requires Python version 3.7 or later.
 
-# Installation & Running the code
+# Installation and Running the code
 
 1. Clone the repository to your local machine, run the following commands one by one in the terminal:
 
